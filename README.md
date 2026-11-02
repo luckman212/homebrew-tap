@@ -1,8 +1,10 @@
-# Homebrew tap
+# my tap for Homebrew
 
 ## How do I install these formulae?
 
 `brew install luckman212/tap/<formula>`
+
+Example for [volctl](https://github.com/luckman212/volctl): `brew install luckman212/tap/volctl`
 
 Or `brew tap luckman212/tap` and then `brew install <formula>`.
 
