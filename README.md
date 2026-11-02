@@ -1,4 +1,4 @@
-# Luckman212 Tap
+# Homebrew tap
 
 ## How do I install these formulae?
 
